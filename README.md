@@ -1,4 +1,4 @@
-# Product Name
+# Instructions
 EC Labs Repo
 
 ## Installation
